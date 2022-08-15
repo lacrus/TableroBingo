@@ -1,0 +1,14 @@
+.salio {
+  background-color: green;
+  color: white;
+}
+
+span {
+  font-size: 15px;
+  width: 9%;
+  height: 10px;
+  border: 1px solid black;
+  padding: 10px;
+  margin: 0px;
+  display: inline-block;
+}
